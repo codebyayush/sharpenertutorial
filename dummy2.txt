@@ -1,1 +1,12 @@
-This is the second dummy file.
+some git commands:
+
+for the error 'remote origin already exits'
+
+1.  to remove existing origin use this command:   git remote remove origin
+2.  to check origin:  git remote -v     
+3.  to see origin:  git remote
+
+
+to see all files:   ls -la
+to initialize existing repo:   git init
+
